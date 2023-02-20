@@ -34,7 +34,7 @@
       "description": "Get this value from my.telegram.org",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
@@ -64,7 +64,7 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": ""
+    "url": 
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
