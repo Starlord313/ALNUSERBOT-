@@ -1,1 +1,1 @@
-worker: bash alnub
+worker: bash HELL
