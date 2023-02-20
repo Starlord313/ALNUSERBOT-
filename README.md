@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê ᴀʟɴᴜsᴇʀʙᴏᴛ 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ᴀʟɴᴜsᴇʀʙᴏᴛ ⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>☠️A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.☠️</b>
 </h3>
 
 ------
@@ -186,6 +186,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [Team AlnUb](https://github.com/AlnUserBot)
 
 ------
