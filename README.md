@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>The 𝘼𝙇𝙉𝙐𝙎𝙀𝙍𝘽𝙊𝙏 🇮🇳</b>
+  <b>𝘼𝙇𝙉𝙐𝙎𝙀𝙍𝘽𝙊𝙏🕊️</b>
 </h1>
 
 <p align="center">
